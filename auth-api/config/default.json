@@ -1,0 +1,6 @@
+{
+  "MONGODB_URI": "mongodb+srv://Adarsh:%40drOnly2432@cluster0.wwlry19.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  "jwtSecret": "your_jwt_secret_here",
+  "emailUser": "abcd@gmail.com",
+  "emailPassword": "password"
+}
